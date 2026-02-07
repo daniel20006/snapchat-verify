@@ -1,5 +1,5 @@
 {
-  "name": "snapchat verify",
+  "name": "snapchat-verify",
   "main": "index.js",
   "compatibility_date": "2026-02-07"
 }
